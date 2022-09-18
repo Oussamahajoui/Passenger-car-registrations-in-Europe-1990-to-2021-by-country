@@ -19,9 +19,12 @@
 
 
 ## Visualization Result:
-
+### Jan 1990:
 [![image](https://user-images.githubusercontent.com/83676274/190900766-80d42b57-87b8-4bac-b118-3de089635218.png)](https://vimeo.com/750882764/ "Video Link: Vimeo - Race Bar Visualization")
 
+### Dec 2021
+[![image](https://user-images.githubusercontent.com/83676274/190901208-f1f804c7-2507-460f-ba2f-a43ab0e3581b.png)](https://vimeo.com/750882764/ "Video Link: Vimeo - Race Bar Visualization")
 
-Full chart available in the following link: 
-[ACEA - Passenger car registrations in Europe from 1990 to 2021, by country - ohajoui](https://public.flourish.studio/visualisation/11204259/)
+
+**Full chart available in the following link: 
+[ACEA - Passenger car registrations in Europe from 1990 to 2021, by country - ohajoui](https://public.flourish.studio/visualisation/11204259/)**
