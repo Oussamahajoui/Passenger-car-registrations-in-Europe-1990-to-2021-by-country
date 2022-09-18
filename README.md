@@ -4,7 +4,7 @@
  ### Steps followed:
 1. Gathered the raw data from the [ACEA](https://www.acea.auto/figure/passenger-car-registrations-in-europe-since-1990-by-country/ "ACEA - Passenger car registrations in Europe 1990-2021, by country")
 2. Performed data transformation using Pandas to clean, manipulate and transform the data to the shape/format we want
-3. Leveraged Flourish Studio to create a Bar race chart!
+3. Leveraged Flourish Studio to create a Bar chart race!
  
 ## Cleaned data example of first 5 columns & rows:
 
